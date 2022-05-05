@@ -7,4 +7,4 @@
 <h3> gesture_zoom_box: </h3>
 <h3> flutter_staggered_animations: </h3>
 
-[Flutter - Car and motorcycle purchase application](https://github.com/abolfazlzareikma/afz-car-motorcycle)[![watch](assets/images/youtube.png)](https://www.youtube.com/watch?v=wVF_WMaJgYs)
+[Flutter - Car and motorcycle purchase application](https://github.com/abolfazlzareikma/afz-car-motorcycle)[![watch](images/youtube.png)](https://www.youtube.com/watch?v=wVF_WMaJgYs)
